@@ -2,3 +2,5 @@
 (Push Gateway) https://github.com/prometheus/pushgateway
 (all querying API's) https://prometheus.io/docs/prometheus/latest/querying/api/
 (Windows WMI installer) https://github.com/martinlindhe/wmi_exporter/releases
+(blog on Prometheus time series) https://fabxc.org/
+
