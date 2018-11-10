@@ -1,0 +1,4 @@
+(Python plugins) https://github.com/prometheus/client_python
+(Push Gateway) https://github.com/prometheus/pushgateway
+(all querying API's) https://prometheus.io/docs/prometheus/latest/querying/api/
+(Windows WMI installer) https://github.com/martinlindhe/wmi_exporter/releases
